@@ -15,10 +15,12 @@ LOGGER = logging.getLogger(__name__)
 
 
 # Hesap
-API_ID = "15781409"
-API_HASH = "0499f7f54f3fbb56b43acb6edf2d9696"
-TOKEN = "5444327778:AAEL9SrrRTKPGkTKIACKSLJ55qlnNNCIGo8" 
-USERNAME = "5444327778"
+API_ID = "13201687"
+API_HASH = "25db8958ff8c53f4313e21c6a70469ad"
+TOKEN = "Here is the token for bot GÖNÜL KELİME BOTU @Gonul_kelimebulmaca_bot:
+
+5533333884:AAFU_TAkAJOyaRfsYJZN-5MbOxe9QR0KSIM" 
+USERNAME = "5195937727"
 
 
 
@@ -47,5 +49,5 @@ rating = {}
 
 # !!!!!!!!!!!!!! DEĞİŞTİR KESİNLİKLE !!!!!!!!!!!!!!!!
 #      SAHİBİN USER ID'Sİ
-OWNER_ID = 974246367
+OWNER_ID = 5195937727
 
